@@ -28,9 +28,11 @@ Solidity's code is encapsulated in contracts. A contract is the fundamental buil
 
 An empty contract named HelloWorld would look like this:
 
-```contract HelloWorld {
+```
+contract HelloWorld {
 
-}```
+}
+```
 
 ### Version Pragma
 
@@ -40,7 +42,9 @@ For the scope of this tutorial, we'll want to be able to compile our smart contr
 
 Putting it together, here is a bare-bones starting contract — the first thing you'll write every time you start a new project:
 
-```pragma solidity >=0.5.0 <0.6.0;```
+```
+pragma solidity >=0.5.0 <0.6.0;
+```
 
 contract HelloWorld {
 
