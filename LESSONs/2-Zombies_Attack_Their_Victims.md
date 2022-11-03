@@ -26,9 +26,9 @@ Each account has an **address**, which you can think of like a bank account numb
 
 **0x0cE446255506E92DF41614C46F1d6df9Cc969183**
 
-(This address belongs to the CryptoZombies team. If you're enjoying CryptoZombies, you can send us some Ether! 😉 )
+(This address belongs to the CryptoZombies team. If you're enjoying CryptoZombies, you can send them some Ether! 😉 )
 
-We'll get into the nitty gritty of addresses in a later lesson, but for now you only need to understand that an address is owned by a specific user (or a smart contract).
+That an address is owned by a specific user (or a smart contract).
 
 So we can use it as a unique ID for ownership of our zombies. When a user creates new zombies by interacting with our app, we'll set ownership of those zombies to the Ethereum address that called the function.
 
